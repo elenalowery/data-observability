@@ -1,4 +1,4 @@
-**This repo contains materials that are used during the Data Observability meetup.**
+**This repo contains materials that are used during the Data Observability workshop.**
 
 Userids and password for the [Databand workshop instance](https://rbc-workshop.databand.ai) will be provided by the instructor.  
 
